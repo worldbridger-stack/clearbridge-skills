@@ -30,6 +30,29 @@ Domain knowledge describing ClearBridge services and expertise.
 
 Atomic professional skills used across roles.
 
+### Architecture (core capability)
+
+#### Business Architecture (primary layer)
+- business-architecture
+
+#### Enterprise Architecture
+- enterprise-architecture
+
+#### Solution Architecture
+- solution-architecture
+
+#### System Architecture
+- system-architecture
+
+#### Data Architecture
+- data-architecture
+
+#### Integration Architecture
+- integration-architecture
+
+#### AI Architecture
+- ai-architecture
+
 ### Marketing
 - segmentation
 - icp-definition
@@ -44,16 +67,19 @@ Atomic professional skills used across roles.
 - follow-ups
 
 ### Design
-- ux-research
-- ui-design
+- brand-design
+- ux-ui-design
 - design-systems
 - prototyping
+- graphic-design
+- marketing-materials-design
 
 ### Engineering
-- architecture-design
+- infrastucture
 - api-integration
 - automation-n8n
-- docker
+- networks
+- web-dev
 
 ### Analytics
 - metrics-definition
