@@ -1,3 +1,7 @@
+---
+description: Reference patterns for power-interest stakeholder matrices, including quadrant strategies and common usage variations.
+---
+
 # Power/Interest Matrix Variations
 
 ## Classic Power/Interest Grid (Mendelow)

@@ -1,3 +1,7 @@
+---
+description: Reference examples of industry capability hierarchies used to seed and customize L1-L3 business capability maps.
+---
+
 # Capability Hierarchy Reference
 
 ## Industry Frameworks

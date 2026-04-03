@@ -1,3 +1,7 @@
+---
+description: Documents the ClearBridge technology stack, including current infrastructure, system components, integrations, and development principles.
+---
+
 # ClearBridge Technology Stack
 
 ## 1. Назначение

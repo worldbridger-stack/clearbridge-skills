@@ -1,3 +1,7 @@
+---
+description: Describes the ClearBridge client lifecycle from first contact through structured business transformation and ongoing system support.
+---
+
 # ClearBridge Lifecycle
 
 ## 1. Общая идея

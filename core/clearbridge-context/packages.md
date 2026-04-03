@@ -1,3 +1,7 @@
+---
+description: Draft definition of ClearBridge productized service packages, including package logic, structure, outcomes, and entry points.
+---
+
 # ClearBridge Packages (v1 — Draft)
 
 > ⚠️ ВАЖНО  

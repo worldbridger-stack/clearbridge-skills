@@ -1,3 +1,7 @@
+---
+description: Defines the ClearBridge concept, positioning, target audience, and core philosophy for structured business transformation.
+---
+
 # ClearBridge Concept
 
 ## 1. Что такое ClearBridge

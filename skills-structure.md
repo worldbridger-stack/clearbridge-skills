@@ -1,3 +1,7 @@
+---
+description: Repository structure reference for ClearBridge skills, showing the layout of core context, domains, capabilities, and agent assets.
+---
+
 clearbridge-skills/
 │
 ├── README.md

@@ -1,3 +1,7 @@
+---
+description: Operating model for ClearBridge inside Paperclip, describing governance, task flow, roles, and agent collaboration rules.
+---
+
 # CBC Paperclip
 
 # ClearBridge AI Consulting OS — Operating Model (v3, aligned with Paperclip)

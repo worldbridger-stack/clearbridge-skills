@@ -1,3 +1,7 @@
+---
+description: Overview of the business-analysis plugin, including scope boundaries, available skills, agents, and installation guidance.
+---
+
 # Business Analysis Plugin
 
 BABOK v3-based business analysis techniques for Claude Code. Provides skills, agents, and commands for capability mapping, stakeholder analysis, value stream mapping, and user journey mapping.

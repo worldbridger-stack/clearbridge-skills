@@ -1,3 +1,7 @@
+---
+description: Top-level index of the ClearBridge skills repository, outlining core skills, domains, capabilities, and repository organization.
+---
+
 # ClearBridge Skills Repository
 
 This repository contains the full operational skill system for ClearBridge Consulting agents.

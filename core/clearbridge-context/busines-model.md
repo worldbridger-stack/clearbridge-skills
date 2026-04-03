@@ -1,3 +1,7 @@
+---
+description: Explains the ClearBridge business model, including value delivery, monetization logic, and the link between consulting, agents, and production.
+---
+
 # ClearBridge Business Model
 
 ## 1. Общая логика модели

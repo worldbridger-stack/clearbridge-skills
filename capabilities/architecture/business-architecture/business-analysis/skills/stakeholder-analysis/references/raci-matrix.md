@@ -1,3 +1,7 @@
+---
+description: Reference guide to RACI roles, rules, and example responsibility matrices for stakeholder and governance design.
+---
+
 # RACI Matrix Reference
 
 ## RACI Definitions

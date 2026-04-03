@@ -1,3 +1,7 @@
+---
+description: Operational delivery rules for ClearBridge, including decision-making principles, client work standards, quality expectations, and result formatting.
+---
+
 # ClearBridge Delivery Rules
 
 ## 1. Назначение документа

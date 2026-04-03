@@ -1,3 +1,7 @@
+---
+description: Expanded ClearBridge design system specification covering visual principles, structural rules, and brand standards for scalable content and product design.
+---
+
 CLEARBRIDGE DESIGN SYSTEM
 Развёрнутая спецификация для развития
 
@@ -144,4 +148,3 @@ XIII. РЕЗУЛЬТАТ
 ClearBridge — это операционная методология.
 Дизайн является её неотъемлемой частью.
 Система готова к развитию в платформу.
-

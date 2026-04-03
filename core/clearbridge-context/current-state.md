@@ -1,3 +1,7 @@
+---
+description: Documents the current state of ClearBridge, including maturity, existing assets, key gaps, and immediate growth priorities.
+---
+
 # ClearBridge Current State
 
 ## 1. Назначение

@@ -1,3 +1,7 @@
+---
+description: Defines the ClearBridge service system, mapping offerings to transformation layers, lifecycle stages, and client outcomes.
+---
+
 # ClearBridge Services
 
 ## 1. Общая логика

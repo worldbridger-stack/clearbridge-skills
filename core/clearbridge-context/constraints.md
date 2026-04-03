@@ -1,3 +1,7 @@
+---
+description: Defines the strategic and operational constraints that keep ClearBridge focused, consistent, and disciplined in execution.
+---
+
 # ClearBridge Constraints
 
 ## 1. Назначение
