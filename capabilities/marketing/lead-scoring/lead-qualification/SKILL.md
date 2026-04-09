@@ -1,52 +1,17 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════════
-# CLAUDE OFFICE SKILL - Enhanced Metadata v2.0
-# ═══════════════════════════════════════════════════════════════════════════════
-
-# Basic Information
-name: Lead Qualification
-description: "Score and qualify leads based on criteria and fit"
-version: "1.0"
-author: claude-office-skills
+name: lead-qualification
+description: >
+  Score and qualify leads against fit, need, authority, timing, and engagement
+  criteria. Use when triaging pipeline, standardizing qualification, or deciding
+  which prospects should advance, nurture, or be disqualified.
 license: MIT
-
-# Categorization
-category: sales
-tags:
-  - lead
-  - qualification
-  - scoring
-  - sales
-department: Sales
-
-# AI Model Compatibility
-models:
-  recommended:
-    - claude-sonnet-4
-    - claude-opus-4
-  compatible:
-    - claude-3-5-sonnet
-    - gpt-4
-    - gpt-4o
-
-# MCP Tools Integration
-mcp:
-  server: office-mcp
-  tools:
-    - read_xlsx
-    - analyze_spreadsheet
-    - create_xlsx
-
-# Skill Capabilities
-capabilities:
-  - lead_scoring
-  - qualification_criteria
-  - prioritization
-
-# Language Support
-languages:
-  - en
-  - zh
+metadata:
+  version: 1.0.0
+  author: clearbridge
+  category: marketing
+  domain: lead-scoring
+  updated: 2026-04-09
+  tags: [lead, qualification, scoring, sales, pipeline]
 ---
 
 # Lead Qualification

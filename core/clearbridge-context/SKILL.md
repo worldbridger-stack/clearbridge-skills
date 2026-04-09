@@ -1,4 +1,5 @@
 ---
+name: clearbridge-context
 description: Core ClearBridge skill that defines company context, business logic, execution rules, priorities, and output expectations for agents.
 ---
 

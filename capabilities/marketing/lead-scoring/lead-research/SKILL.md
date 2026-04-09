@@ -1,51 +1,17 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════════
-# CLAUDE OFFICE SKILL - Enhanced Metadata v2.0
-# ═══════════════════════════════════════════════════════════════════════════════
-
-# Basic Information
-name: Lead Research Assistant
-description: "Research company and contact information for sales outreach"
-version: "1.0"
-author: claude-office-skills
+name: lead-research
+description: >
+  Research companies, buying signals, and contact context for outbound sales and
+  account planning. Use when preparing for outreach, building account briefs, or
+  prioritizing prospects based on firmographic and contextual fit.
 license: MIT
-
-# Categorization
-category: sales
-tags:
-  - lead
-  - research
-  - sales
-  - prospecting
-department: Sales
-
-# AI Model Compatibility
-models:
-  recommended:
-    - claude-sonnet-4
-    - claude-opus-4
-  compatible:
-    - claude-3-5-sonnet
-    - gpt-4
-    - gpt-4o
-
-# MCP Tools Integration
-mcp:
-  server: office-mcp
-  tools:
-    - create_docx
-    - xlsx_to_json
-
-# Skill Capabilities
-capabilities:
-  - lead_research
-  - company_analysis
-  - contact_discovery
-
-# Language Support
-languages:
-  - en
-  - zh
+metadata:
+  version: 1.0.0
+  author: clearbridge
+  category: marketing
+  domain: lead-scoring
+  updated: 2026-04-09
+  tags: [lead, research, sales, prospecting, outbound]
 ---
 
 # Lead Research Assistant

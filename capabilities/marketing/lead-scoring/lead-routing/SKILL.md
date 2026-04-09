@@ -1,46 +1,17 @@
 ---
 name: lead-routing
-description: "Intelligent lead assignment and routing - AI-powered scoring, territory mapping, round-robin distribution, and workload balancing"
-version: "1.0.0"
-author: claude-office-skills
+description: >
+  Route inbound and outbound leads using territory rules, round-robin logic,
+  workload balancing, and SLA-aware assignment. Use when designing lead routing
+  policies, CRM assignment logic, or operational handoffs between teams.
 license: MIT
-
-category: sales
-tags:
-  - lead-management
-  - sales-automation
-  - routing
-  - assignment
-  - crm
-department: Sales
-
-models:
-  recommended:
-    - claude-sonnet-4
-    - claude-opus-4
-
-mcp:
-  server: crm-mcp
-  tools:
-    - hubspot_assign_owner
-    - salesforce_route
-    - enrichment_api
-
-capabilities:
-  - lead_scoring
-  - territory_routing
-  - round_robin
-  - workload_balancing
-  - sla_management
-
-languages:
-  - en
-  - zh
-
-related_skills:
-  - crm-automation
-  - sales-pipeline
-  - saas-metrics
+metadata:
+  version: 1.0.0
+  author: clearbridge
+  category: marketing
+  domain: lead-scoring
+  updated: 2026-04-09
+  tags: [lead-management, routing, assignment, crm, sla]
 ---
 
 # Lead Routing
@@ -551,4 +522,4 @@ Would a 15-min call this week make sense to see if we can help?
 
 ---
 
-*Lead Routing Skill - Part of Claude Office Skills*
+*Lead Routing Skill for the ClearBridge skills repository*

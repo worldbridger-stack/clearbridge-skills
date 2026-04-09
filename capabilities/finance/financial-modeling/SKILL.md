@@ -1,55 +1,18 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════════
-# CLAUDE OFFICE SKILL - Financial Modeling
-# ═══════════════════════════════════════════════════════════════════════════════
-
 name: financial-modeling
-description: "Build integrated financial models with 3-statement projections. Create income statement, balance sheet, and cash flow models with proper linkages."
-version: "1.0.0"
-author: claude-office-skills
+description: >
+  Build integrated financial models with three-statement projections, scenario
+  planning, and operating assumptions. Use when creating income statement,
+  balance sheet, and cash flow models with proper linkages for planning,
+  fundraising, or valuation work.
 license: MIT
-
-category: finance
-tags:
-  - financial-modeling
-  - three-statement
-  - forecasting
-  - income-statement
-  - balance-sheet
-department: Finance/FP&A
-
-models:
-  recommended:
-    - claude-sonnet-4
-    - claude-opus-4
-  compatible:
-    - claude-3-5-sonnet
-    - gpt-4
-    - gpt-4o
-
-mcp:
-  server: office-mcp
-  tools:
-    - read_xlsx
-    - create_xlsx
-    - apply_formula
-    - create_chart
-
-capabilities:
-  - three_statement_modeling
-  - revenue_forecasting
-  - expense_modeling
-  - working_capital_projections
-  - debt_schedule_modeling
-
-languages:
-  - en
-  - zh
-
-related_skills:
-  - dcf-valuation
-  - stock-analysis
-  - data-analysis
+metadata:
+  version: 1.0.0
+  author: clearbridge
+  category: finance
+  domain: fp-and-a
+  updated: 2026-04-09
+  tags: [financial-modeling, three-statement, forecasting, planning, valuation]
 ---
 
 # Financial Modeling Skill
@@ -320,4 +283,4 @@ Net Change in Cash = CFO + CFI + CFF
 
 ---
 
-*Built by the Claude Office Skills community. Contributions welcome!*
+*Built for the ClearBridge skills repository. Contributions welcome!*

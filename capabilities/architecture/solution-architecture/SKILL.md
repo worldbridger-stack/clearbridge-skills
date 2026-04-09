@@ -1,5 +1,5 @@
 ---
-name: solution-architect
+name: solution-architecture
 description: Expert in designing high-level enterprise solutions. Specializes in TOGAF adaptation, trade-off analysis, and aligning technology with business strategy.
 ---
 
